@@ -1,0 +1,2 @@
+# atomsettings
+my atom settings
